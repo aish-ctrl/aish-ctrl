@@ -39,9 +39,15 @@ potentially fraudulent activity.
 
 `Python` `MySQL` `SQL` `Data Analysis`
 
-### [Project Name](https://github.com/aish-ctrl/repo-name)
-One sentence on the problem it solves, followed by two bullets on your
-contribution and the result.
+[Early-Stage Diabetic Retinopathy Detection](https://github.com/aish-ctrl/diabetic-retinopathy-detection-ai)
+Deep learning system that classifies retinal fundus images by diabetic
+retinopathy severity (5 classes) to support early screening.
+
+- Trained ResNet50 and EfficientNet-B0 CNN models on the APTOS 2019 dataset
+- Addressed class imbalance and applied preprocessing and augmentation (224x224 resize, normalization)
+- Built a FastAPI inference backend and a web frontend for image upload and prediction
+
+`Python` `PyTorch` `CNN` `FastAPI` `Deep Learning`
 
 `Technology` `Technology`
 

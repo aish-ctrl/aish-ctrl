@@ -1,6 +1,6 @@
 # Aishwarya B C
 
-Data Science Engineering | Data Analytics | AI/ML | Full Stack Development
+Data Science Engineering | Data Analytics | AI/ML 
 
 Final-year Data Science Engineering student specializing in data analysis,
 SQL, and machine learning. I use Python, Advanced SQL, Excel, and Power BI to
@@ -21,7 +21,6 @@ Technical Skills
 | Databases| MySQL, Advanced SQL, Database Design, Indexing and Query Optimization |
 | Data Analytics| Data Cleaning, Exploratory Data Analysis, Excel, Power BI |
 | AI / Machine Learning | Model Development and Evaluation, ML Fundamentals |
-| Full Stack | Add your actual stack (e.g., HTML, CSS, JavaScript, framework, backend) |
 | Tools and Practices | Git, GitHub, DevOps Fundamentals, Debugging |
 
 

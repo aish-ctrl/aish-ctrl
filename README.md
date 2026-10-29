@@ -48,7 +48,7 @@ retinopathy severity (5 classes) to support early screening.
 
 `Python` `PyTorch` `CNN` `FastAPI` `Deep Learning`
 
-`Technology` `Technology`
+`Technology` 
 
 Experience
 AI Intern (Remote) | Company Name

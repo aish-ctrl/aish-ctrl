@@ -46,9 +46,19 @@ contribution and the result.
 `Technology` `Technology`
 
 Experience
+AI Intern (Remote) | Company Name
+Month Year to Month Year (2 months)
 
-### Junior Full Stack Developer (Trainee) | Company Name
-*Month Year to Month Year (6 months)*
+- Worked remotely on (describe the AI/ML task, e.g., building a classification model, data preprocessing, a chatbot)
+- Used Python and (libraries or tools you used) to (what you did)
+- Collaborated with the team using Git, GitHub, and virtual meetings
+- Result: (measurable outcome, if you have one)
+
+Junior Full Stack Developer (Trainee) 
+Month Year to Month Year (6 months)
+- Developed (features or modules) using (your front end and back end technologies)
+- Debugged and resolved issues across front end and back end
+- Used Git and GitHub for version control and collaboration
 
 - Developed application features using (your technologies)
 - Debugged and resolved issues across front end and back end
@@ -57,15 +67,12 @@ Experience
 
 
 Education
-
-B.E. in Data Science Engineering** | DSCE | 2024 to 2027 (Expected)
-
-Diploma in Computer Science Engineering** | SKP | 2021 to 2024
+B.E. in Data Science Engineering | DSCE | 2024 to 2027 (Expected)
+Diploma in Computer Science Engineering  | SKP | 2021 to 2024
 
 
 
 Open To
-
 Internships and entry-level roles in Data Analytics, Data Science, AI/ML, and
 Software Development.
 
